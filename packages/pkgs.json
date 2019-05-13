@@ -1,0 +1,12 @@
+[
+ {
+  "path": "/packages/iot/at_device", 
+  "ver": "latest", 
+  "name": "AT_DEVICE"
+ }, 
+ {
+  "path": "/packages/peripherals/sensors/bh1750", 
+  "ver": "v1.0.0", 
+  "name": "BH1750"
+ }
+]
